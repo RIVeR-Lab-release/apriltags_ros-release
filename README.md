@@ -1,3 +1,28 @@
+## apriltags_ros (indigo) - 0.1.2-1
+
+The packages in the `apriltags_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release apriltags_ros --track indigo --rosdistro indigo` on `Fri, 08 Jul 2016 16:05:25 -0000`
+
+These packages were released:
+- `apriltags`
+- `apriltags_ros`
+
+Version of package(s) in repository `apriltags_ros`:
+
+- upstream repository: https://github.com/RIVeR-Lab/apriltags_ros.git
+- release repository: https://github.com/RIVeR-Lab-release/apriltags_ros-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.2-0`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## apriltags_ros (indigo) - 0.1.2-0
 
 The packages in the `apriltags_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release apriltags_ros --track indigo --rosdistro indigo` on `Fri, 08 Jul 2016 16:02:23 -0000`
